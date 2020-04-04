@@ -1,0 +1,34 @@
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.deps.json
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csprojAssemblyReference.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfoInputs.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfo.cs
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csproj.CopyComplete
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.deps.json
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csproj.CopyComplete
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.deps.json
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.csproj.CopyComplete
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Dominio\obj\Debug\netcoreapp3.1\Aula09.Dominio.pdb

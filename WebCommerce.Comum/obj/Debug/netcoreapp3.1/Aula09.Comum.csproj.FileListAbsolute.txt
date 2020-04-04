@@ -1,0 +1,25 @@
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.deps.json
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.csprojAssemblyReference.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfoInputs.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfo.cs
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.deps.json
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.deps.json
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Comum\obj\Debug\netcoreapp3.1\Aula09.Comum.pdb

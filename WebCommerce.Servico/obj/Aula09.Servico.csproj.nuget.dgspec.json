@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Servico\\Aula09.Servico.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\Aula09.Comum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\Aula09.Comum.csproj",
+        "projectName": "Aula09.Comum",
+        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\Aula09.Comum.csproj",
+        "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato Correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\Aula09.Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\Aula09.Dados.csproj",
+        "projectName": "Aula09.Dados",
+        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\Aula09.Dados.csproj",
+        "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato Correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj",
+        "projectName": "Aula09.Dominio",
+        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato Correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\Aula09.Comum.csproj": {
+                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Comum\\Aula09.Comum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Servico\\Aula09.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Servico\\Aula09.Servico.csproj",
+        "projectName": "Aula09.Servico",
+        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Servico\\Aula09.Servico.csproj",
+        "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato Correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\Aula09.Dados.csproj": {
+                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Data\\Aula09.Dados.csproj"
+              },
+              "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Aula09_61-637202475329981484\\Aula09\\Aula09.Dominio\\Aula09.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

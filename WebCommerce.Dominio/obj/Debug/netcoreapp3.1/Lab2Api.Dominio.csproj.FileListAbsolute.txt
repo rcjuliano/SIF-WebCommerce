@@ -1,0 +1,12 @@
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\bin\Debug\netcoreapp3.1\Lab2Api.Dominio.deps.json
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\bin\Debug\netcoreapp3.1\Lab2Api.Dominio.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\bin\Debug\netcoreapp3.1\Lab2Api.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\bin\Debug\netcoreapp3.1\Lab2Api.Comum.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\bin\Debug\netcoreapp3.1\Lab2Api.Comum.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.csproj.CopyComplete
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Dominio\obj\Debug\netcoreapp3.1\Lab2Api.Dominio.pdb

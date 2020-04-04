@@ -1,0 +1,32 @@
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.deps.json
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csprojAssemblyReference.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfoInputs.cache
+C:\Users\renatocorrea\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.deps.json
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csproj.CopyComplete
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\Renato\Desktop\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.deps.json
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dados.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.csproj.CopyComplete
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Data\obj\Debug\netcoreapp3.1\Aula09.Dados.pdb

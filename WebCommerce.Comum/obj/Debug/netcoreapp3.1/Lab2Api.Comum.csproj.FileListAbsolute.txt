@@ -1,0 +1,8 @@
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\bin\Debug\netcoreapp3.1\Lab2Api.Comum.deps.json
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\bin\Debug\netcoreapp3.1\Lab2Api.Comum.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\bin\Debug\netcoreapp3.1\Lab2Api.Comum.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\obj\Debug\netcoreapp3.1\Lab2Api.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\obj\Debug\netcoreapp3.1\Lab2Api.Comum.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\obj\Debug\netcoreapp3.1\Lab2Api.Comum.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\obj\Debug\netcoreapp3.1\Lab2Api.Comum.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Comum\obj\Debug\netcoreapp3.1\Lab2Api.Comum.pdb

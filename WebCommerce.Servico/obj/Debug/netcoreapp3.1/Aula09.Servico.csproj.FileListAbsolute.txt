@@ -1,0 +1,16 @@
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Servico.deps.json
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Servico.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Servico.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Comum.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Dados.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Dominio.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Dados.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\bin\Debug\netcoreapp3.1\Aula09.Comum.pdb
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.csproj.CopyComplete
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.dll
+C:\Users\Renato Correa\Desktop\Aula09_61-637202475329981484\Aula09\Aula09.Servico\obj\Debug\netcoreapp3.1\Aula09.Servico.pdb

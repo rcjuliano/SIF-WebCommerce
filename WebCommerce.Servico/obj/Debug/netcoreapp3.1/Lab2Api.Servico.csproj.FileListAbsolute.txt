@@ -1,0 +1,16 @@
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Servico.deps.json
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Servico.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Servico.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Comum.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Dados.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Dominio.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Dados.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Dominio.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\bin\Debug\netcoreapp3.1\Lab2Api.Comum.pdb
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.csprojAssemblyReference.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.AssemblyInfoInputs.cache
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.AssemblyInfo.cs
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.csproj.CopyComplete
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.dll
+C:\Users\Renato Correa\Desktop\Lab2-Api\Lab2-Api\Lab2Api.Servico\obj\Debug\netcoreapp3.1\Lab2Api.Servico.pdb
