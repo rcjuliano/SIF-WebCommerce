@@ -12,3 +12,5 @@ Projeto WebApi de e-Commerce do curso de Sistemas de Informação do UNIARAXÁ (
 + Notification Pattern (OK)
 + Inversion of Control (NOT YET)
 + Self Validation (NOT YET)
++ CrossCutting (OK)
++ Dependency Injection (NOT YET)
