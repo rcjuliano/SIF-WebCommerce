@@ -4,11 +4,12 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Aula09.Dados.Configuracoes
 {
-    public class ProdutoConfiguracao : IEntityTypeConfiguration<Produto> {
+    public class ProdutoConfiguracao : IEntityTypeConfiguration<Produto>
+    {
 
         public void Configure(EntityTypeBuilder<Produto> builder)
         {
-            
+
             builder.ToTable("Produto", "dbo");
             builder.HasKey("idProduto");
             builder.Property(f => f.idProduto).HasColumnName("idProduto");

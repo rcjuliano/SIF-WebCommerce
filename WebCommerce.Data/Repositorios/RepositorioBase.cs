@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Aula09.Dados
 {
@@ -18,6 +20,13 @@ namespace Aula09.Dados
         public virtual T ListarUm(params object[] keys)
         {
             return Entidade.Find(keys);
+        }
+
+        public virtual Task<List<T>> ListarTodosAsync()
+        {
+            return Contexto
+                .Set<T>()
+                .ToListAsync();
         }
 
         public virtual List<T> ListarTodos()

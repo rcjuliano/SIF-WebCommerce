@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Aula09.Dados.Configuracoes
 {
-    public class DepartamentoConfiguracao :
-        IEntityTypeConfiguration<Departamento>
+    public class DepartamentoConfiguracao : IEntityTypeConfiguration<Departamento>
     {
         public void Configure(EntityTypeBuilder<Departamento> builder)
         {
             builder.ToTable("Departamento");
-            builder.HasKey("idDepartamento");
+            builder.HasKey(f => f.idDepartamento);
+
             builder.Property(f => f.idDepartamento).HasColumnName("idDepartamento");
             builder.Property(f => f.Descricao).HasColumnName("Descricao")
                 .IsRequired()

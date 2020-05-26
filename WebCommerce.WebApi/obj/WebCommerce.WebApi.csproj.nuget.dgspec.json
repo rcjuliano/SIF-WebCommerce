@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj": {}
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj": {
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
+        "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
         "projectName": "WebCommerce.Comum",
-        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
+        "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
         "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\obj\\",
+        "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj": {
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
+        "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
         "projectName": "WebCommerce.Dados",
-        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
+        "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
         "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\obj\\",
+        "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
               }
             }
           }
@@ -124,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj",
+        "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj",
         "projectName": "WebCommerce.Dominio",
-        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj",
+        "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj",
         "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\obj\\",
+        "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -154,8 +154,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj"
               }
             }
           }
@@ -183,18 +183,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj": {
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj",
+        "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj",
         "projectName": "WebCommerce.Servico",
-        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj",
+        "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj",
         "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\obj\\",
+        "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -213,11 +213,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj"
               },
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
               }
             }
           }
@@ -245,18 +245,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj": {
+    "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj",
+        "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj",
         "projectName": "WebCommerce.WebApi",
-        "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj",
+        "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj",
         "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.WebApi\\obj\\",
+        "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -275,11 +275,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
               },
-              "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj": {
-                "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj"
+              "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj": {
+                "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Servico\\WebCommerce.Servico.csproj"
               }
             }
           }
@@ -293,9 +293,21 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.3, )"
             }
           },
           "imports": [
@@ -316,7 +328,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,12 @@
 ﻿
+using Aula09.Comum;
 using Aula09.Comum.NotificationPattern;
 using Aula09.Dados;
 using Aula09.Dominio;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Aula09.Servico
 {
@@ -15,6 +17,16 @@ namespace Aula09.Servico
         public ProdutoServico()
         {
             _produtoRepositorio = new ProdutoRepositorio();
+        }
+
+        public IEnumerable<Produto> ListarAtivos()
+        {
+            return _produtoRepositorio.ListarAtivos();
+        }
+
+        public Produto ListarUm(int idProduto)
+        {
+            return _produtoRepositorio.ListarUm(idProduto);
         }
 
         public NotificationResult Salvar(Produto entidade)
@@ -36,16 +48,19 @@ namespace Aula09.Servico
 
                 if (notificationResult.IsValid) {
 
-                    //if (entidade.idProduto == 0)
+                    if (entidade.idProduto == 0)
+                    //if (ListarUm(entidade.idProduto, entidade.idGrupo) == null)
                         _produtoRepositorio.Adicionar(entidade);
-                    //else
-                        //_produtoRepositorio.Atualizar(entidade);
+                    else
+                    {
+                        _produtoRepositorio.Atualizar(entidade);
+                    }
 
                     notificationResult.Add("Produto cadastrado com sucesso.");
                 }
 
                 notificationResult.Result = entidade;
-
+                
                 return notificationResult;
             }
             catch (Exception ex)
@@ -54,15 +69,7 @@ namespace Aula09.Servico
             }
         }
 
-        public IEnumerable<Produto> ListarAtivos()
-        {
-            return _produtoRepositorio.ListarAtivos();
-        }
-
-        public Produto ListarUm(int idProduto)
-        {
-            return _produtoRepositorio.ListarUm(idProduto);
-        }
+        
 
         public NotificationResult Excluir(int idProduto)
         {
@@ -97,8 +104,8 @@ namespace Aula09.Servico
             }
         }
 
-        public IEnumerable<Produto> ListarTodos() {
-            return _produtoRepositorio.ListarTodos();
+        public Task<List<Produto>> ListarTodos() {
+            return _produtoRepositorio.ListarTodosAsync();
         }
 
         public IEnumerable<Produto> ListarTodosComEstoqueZerado()
