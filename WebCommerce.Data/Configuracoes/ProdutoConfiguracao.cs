@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Aula09.Dados.Configuracoes
+namespace WebCommerce.Dados.Configuracoes
 {
     public class ProdutoConfiguracao : IEntityTypeConfiguration<Produto>
     {

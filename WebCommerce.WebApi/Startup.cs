@@ -1,13 +1,12 @@
 using System;
-using Aula09.Dados;
 using Aula09.Servico;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using WebCommerce.Dados;
 using WebCommerce.Dominio.Interfaces;
 
 namespace Aula09.WebApi
@@ -34,6 +33,7 @@ namespace Aula09.WebApi
         {
             services.AddTransient<IProdutoServico, ProdutoServico>();
             services.AddTransient<IProdutoRepositorio, ProdutoRepositorio>();
+            services.AddScoped(typeof(IRepositorioBase<>), typeof(RepositorioBase<>));
 
             services.AddCors();
             services.AddControllers();

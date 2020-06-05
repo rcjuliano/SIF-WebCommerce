@@ -1,11 +1,8 @@
 ﻿
-using Aula09.Comum;
 using Aula09.Comum.NotificationPattern;
-using Aula09.Dados;
 using Aula09.Dominio;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using WebCommerce.Dominio.Interfaces;
 

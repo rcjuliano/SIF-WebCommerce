@@ -9,7 +9,7 @@
             Operações relacionadas ao processo de CRUD dos produtos
             </summary>
         </member>
-        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.#ctor">
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.#ctor(WebCommerce.Dominio.Interfaces.IProdutoServico)">
             <summary>
             Método Construtor do Controller Produto
             </summary>
@@ -25,6 +25,12 @@
         <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.Ativos">
             <summary>
             Lista de Todos os Produtos Ativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.EhIgual">
+            <summary>
+            Exemplo de equals e getHashCode
             </summary>
             <returns></returns>
         </member>

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using WebCommerce.Dominio.Interfaces;
 
-namespace Aula09.Dados
+namespace WebCommerce.Dados
 {
     public class ProdutoRepositorio : RepositorioBase<Produto>, IProdutoRepositorio 
     {

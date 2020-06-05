@@ -6,9 +6,9 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\bin\Debug\netcoreapp3.1\WebCom
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\bin\Debug\netcoreapp3.1\WebCommerce.Dominio.pdb
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\bin\Debug\netcoreapp3.1\WebCommerce.Comum.pdb
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.csprojAssemblyReference.cache
-C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.csproj.CoreCompileInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.AssemblyInfoInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.AssemblyInfo.cs
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.csproj.CoreCompileInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.csproj.CopyComplete
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Data\obj\Debug\netcoreapp3.1\WebCommerce.Dados.pdb

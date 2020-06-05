@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using WebCommerce.Dominio.Interfaces;
 
-namespace Aula09.Dados
+namespace WebCommerce.Dados
 {
     public class GrupoRepositorio : RepositorioBase<Grupo>, IGrupoRepositorio
     {

@@ -7,6 +7,9 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebC
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebCommerce.WebApi.runtimeconfig.dev.json
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebCommerce.WebApi.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebCommerce.WebApi.pdb
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebCommerce.WebApi.xml
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -32,6 +35,7 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Micr
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -41,7 +45,11 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Micr
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -121,6 +129,9 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebC
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.csprojAssemblyReference.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.AssemblyInfoInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.AssemblyInfo.cs
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.csproj.CoreCompileInputs.cache
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.RazorTargetAssemblyInfo.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.csproj.CopyComplete
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebCommerce.WebApi.StaticWebAssets.Manifest.cache
@@ -128,14 +139,3 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\stat
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.pdb
 C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.genruntimeconfig.cache
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\WebCommerce.WebApi.xml
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.csproj.CoreCompileInputs.cache
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\_repositorios\SIF-WebCommerce\WebCommerce.WebApi\obj\Debug\netcoreapp3.1\WebCommerce.WebApi.MvcApplicationPartsAssemblyInfo.cache

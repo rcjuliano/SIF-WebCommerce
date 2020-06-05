@@ -2,8 +2,8 @@ C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\bin\Debug\netcoreapp3.1\WebCo
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\bin\Debug\netcoreapp3.1\WebCommerce.Comum.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\bin\Debug\netcoreapp3.1\WebCommerce.Comum.pdb
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.csprojAssemblyReference.cache
-C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.csproj.CoreCompileInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.AssemblyInfoInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.AssemblyInfo.cs
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.csproj.CoreCompileInputs.cache
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.dll
 C:\_repositorios\SIF-WebCommerce\WebCommerce.Comum\obj\Debug\netcoreapp3.1\WebCommerce.Comum.pdb

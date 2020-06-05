@@ -1,11 +1,8 @@
-﻿using Aula09.Dados.Configuracoes;
-using Aula09.Dominio;
+﻿using Aula09.Dominio;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using WebCommerce.Dados.Configuracoes;
 
-namespace Aula09.Dados
+namespace WebCommerce.Dados
 {
     public class Contexto : DbContext {
 
