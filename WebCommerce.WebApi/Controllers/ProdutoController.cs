@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 using Aula09.Comum.NotificationPattern;
 using Aula09.Dominio;
 using Aula09.Servico;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using WebCommerce.Dominio.Interfaces;
 
 namespace WebCommerce.WebApi.Controllers
 {
@@ -13,17 +15,18 @@ namespace WebCommerce.WebApi.Controllers
     /// Operações relacionadas ao processo de CRUD dos produtos
     /// </summary>
     [ApiController]
+    //[AutenticacaoBasica]
     [Route("[controller]")]
     public class ProdutoController : ControllerBase
     {
-        private readonly ProdutoServico produtoServico;
+        private readonly IProdutoServico _produtoServico;
 
         /// <summary>
         /// Método Construtor do Controller Produto
         /// </summary>
-        public ProdutoController()
+        public ProdutoController(IProdutoServico produtoServico)
         {
-            produtoServico = new ProdutoServico();
+            _produtoServico = produtoServico;
         }
 
         /// <summary>
@@ -34,7 +37,7 @@ namespace WebCommerce.WebApi.Controllers
         /// </returns>
         [HttpGet("todos")]
         public Task<List<Produto>> Todos() {
-             return produtoServico.ListarTodos();
+             return _produtoServico.ListarTodos();
         }
 
         /// <summary>
@@ -42,12 +45,33 @@ namespace WebCommerce.WebApi.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet("ativos")]
-        
-        public IEnumerable<Produto> Ativos() => produtoServico.ListarAtivos().Where(f => f.DataCadastro == DateTime.Now);
+        public IEnumerable<Produto> Ativos() => _produtoServico.ListarAtivos().Where(f => f.DataCadastro == DateTime.Now);
 
-        [HttpGet("sem-estoque")]
-        public IEnumerable<Produto> ListarTodosComEstoqueZerado() {
-            return produtoServico.ListarTodosComEstoqueZerado();
+        /// <summary>
+        /// Exemplo de equals e getHashCode
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet("igual")]
+        public bool EhIgual()
+        {
+            var data = DateTime.Now;
+
+            var produto1 = new Produto
+            {
+                idProduto = 1,
+                Descricao = "NIKE",
+                DataCadastro = data
+            };
+
+            var produto2 = new Produto
+            {
+                idProduto = 1,
+                Descricao = "ADIDAS",
+                DataCadastro = data
+            };
+
+            //return produto1 == produto2;
+            return produto1.Equals(produto2);
         }
 
         /// <summary>
@@ -67,13 +91,13 @@ namespace WebCommerce.WebApi.Controllers
         [HttpPost("salvar")]
         public NotificationResult Salvar(Produto entidade)
         {
-            return produtoServico.Salvar(entidade);
+            return _produtoServico.Salvar(entidade);
         }
 
         [HttpDelete("excluir")]
         public NotificationResult Excluir(int idProduto)
         {
-            return produtoServico.Excluir(idProduto);
+            return _produtoServico.Excluir(idProduto);
         }
 
     }

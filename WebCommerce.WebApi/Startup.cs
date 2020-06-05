@@ -1,4 +1,6 @@
 using System;
+using Aula09.Dados;
+using Aula09.Servico;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -6,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using WebCommerce.Dominio.Interfaces;
 
 namespace Aula09.WebApi
 {
@@ -29,9 +32,14 @@ namespace Aula09.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IProdutoServico, ProdutoServico>();
+            services.AddTransient<IProdutoRepositorio, ProdutoRepositorio>();
+
             services.AddCors();
             services.AddControllers();
-            
+
+            //services.AddAuthorization((x) => x.AddPolicy("AutenticacaoBasica"));
+
             services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1",
                     new OpenApiInfo

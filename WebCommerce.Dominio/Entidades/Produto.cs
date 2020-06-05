@@ -40,5 +40,20 @@ namespace Aula09.Dominio
             return $"{idProduto}\t\t{Descricao}\t\t{PrecoVenda:C2}\t\t{PrecoCusto:C2}\t\t{Estoque}";
         }
 
+        public override bool Equals(object obj)
+        {
+            var ent = obj as Produto;
+
+            if (ent == null)
+                return false;
+
+            return ent.idProduto == idProduto && ent.DataCadastro == DataCadastro;
+        }
+
+        public override int GetHashCode()
+        {
+            return idProduto.GetHashCode();
+        }
+
     }
 }

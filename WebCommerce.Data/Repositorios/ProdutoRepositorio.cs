@@ -2,18 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
+using WebCommerce.Dominio.Interfaces;
 
 namespace Aula09.Dados
 {
-    public class ProdutoRepositorio : RepositorioBase<Produto>
+    public class ProdutoRepositorio : RepositorioBase<Produto>, IProdutoRepositorio 
     {
-        public IEnumerable<Produto> ListarTodosComEstoqueZerado() {
-            return Contexto
-                .Produto
-                //.Include(f => f.Marca)
-                .Where(f => f.Estoque == 0);
-        }
-
         public IEnumerable<Produto> ListarAtivos()
         {
             return Contexto

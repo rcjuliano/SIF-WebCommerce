@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using WebCommerce.Dominio.Interfaces;
 
 namespace Aula09.Dados
 {
-    public abstract class RepositorioBase<T> where T : class
+    public abstract class RepositorioBase<T> : IRepositorioBase<T> where T : class 
     {
         protected Contexto Contexto { get; }
         private DbSet<T> Entidade { get; }

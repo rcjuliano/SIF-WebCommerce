@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
+      "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
       "projectName": "WebCommerce.Comum",
-      "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
+      "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
       "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Comum\\obj\\",
+      "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,12 +57,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

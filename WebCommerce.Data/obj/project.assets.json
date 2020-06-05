@@ -4966,11 +4966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
+      "projectUniqueName": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
       "projectName": "WebCommerce.Dados",
-      "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
+      "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\WebCommerce.Dados.csproj",
       "packagesPath": "C:\\Users\\Renato Correa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Data\\obj\\",
+      "outputPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4989,8 +4989,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Renato Correa\\Desktop\\Lab2-Api\\WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
+            "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj": {
+              "projectPath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Dominio\\WebCommerce.Dominio.csproj"
             }
           }
         }
@@ -5023,12 +5023,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

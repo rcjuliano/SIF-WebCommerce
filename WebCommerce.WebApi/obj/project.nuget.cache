@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lAdAi9lkm3GAYoQTpUBIAQahglkrMt2UGYg8+8LnGQfAlsCRGLvkjJzE3i7QZj7UorJEGnqBp00M/rkamaOabg==",
+  "dgSpecHash": "NxpwVjsv+DZi8u6vly44Y9z836N8kwqm99171RGgt+YGw1Ods0iCGk01jkZOM1gHnB8/PWWcBLHYj5ohvbF3jA==",
   "success": true,
   "projectFilePath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.WebApi\\WebCommerce.WebApi.csproj",
   "expectedPackageFiles": [
@@ -169,7 +169,8 @@
     "C:\\Users\\Renato Correa\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Renato Correa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Renato Correa\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Renato Correa\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Renato Correa\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Renato Correa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": [
     {

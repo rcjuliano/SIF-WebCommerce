@@ -7,16 +7,17 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using WebCommerce.Dominio.Interfaces;
 
 namespace Aula09.Servico
 {
-    public class ProdutoServico
+    public class ProdutoServico : IProdutoServico
     {
-        private readonly ProdutoRepositorio _produtoRepositorio;
+        private readonly IProdutoRepositorio _produtoRepositorio;
 
-        public ProdutoServico()
+        public ProdutoServico(IProdutoRepositorio produtoRepositorio)
         {
-            _produtoRepositorio = new ProdutoRepositorio();
+            _produtoRepositorio = produtoRepositorio;
         }
 
         public IEnumerable<Produto> ListarAtivos()
@@ -106,11 +107,6 @@ namespace Aula09.Servico
 
         public Task<List<Produto>> ListarTodos() {
             return _produtoRepositorio.ListarTodosAsync();
-        }
-
-        public IEnumerable<Produto> ListarTodosComEstoqueZerado()
-        {
-            return _produtoRepositorio.ListarTodosComEstoqueZerado();
         }
     }
 }

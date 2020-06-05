@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
+using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -25,23 +26,25 @@ namespace WebCommerce.WebApi
     public class AutenticacaoBasicaHandler : IAuthorizationFilter
     {
 
+
         public void OnAuthorization(AuthorizationFilterContext context)
         {
             try
             {
                 string cabecalho = context.HttpContext.Request.Headers["Authorization"];
 
-                if (cabecalho != null) {
+                if (cabecalho != null)
+                {
                     var authHeaderValue = AuthenticationHeaderValue.Parse(cabecalho);
                     if (authHeaderValue.Scheme.Equals(AuthenticationSchemes.Basic.ToString(), StringComparison.OrdinalIgnoreCase)) {
                         var credenciais = Encoding.UTF8
                                             .GetString(Convert.FromBase64String(authHeaderValue.Parameter ?? string.Empty))
                                             .Split(':', 3);
 
-                        if (credenciais.Length == 3) 
+                        if (credenciais.Length == 3)
                             if (EstaAutenticado(context, credenciais[0], credenciais[1], credenciais[2]))
                                 return;
-                        
+
                     }
                 }
 
@@ -55,7 +58,15 @@ namespace WebCommerce.WebApi
 
         public bool EstaAutenticado(AuthorizationFilterContext context, string username, string password, string data)
         {
-            return username == "renato" && password == "teste*123" && Convert.ToDateTime(data).AddMinutes(5) < DateTime.Now;
+            //BUSCAR INFORMAÇÕES EM MEMÓRIA CACHE
+            var listaDeUsuarios = new System.Collections.Generic.Dictionary<string, string> {
+                { "uniaraxa", "uni@r@x@" },
+                { "bembrasil", "b3mbr4s1l" },
+                { "eletrozema", "3l3tr0z3m4" },
+                { "cbmm", "semsenha" }
+            };
+
+            return listaDeUsuarios.Any(f => f.Key == username && f.Value == password) && Convert.ToDateTime(data).AddMinutes(5) < DateTime.Now;
         }
 
         private void NaoAutorizadoResult(AuthorizationFilterContext context)

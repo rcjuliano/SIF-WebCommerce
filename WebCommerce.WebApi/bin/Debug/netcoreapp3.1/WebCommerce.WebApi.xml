@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebCommerce.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:WebCommerce.WebApi.Controllers.ProdutoController">
+            <summary>
+            Operações relacionadas ao processo de CRUD dos produtos
+            </summary>
+        </member>
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.#ctor">
+            <summary>
+            Método Construtor do Controller Produto
+            </summary>
+        </member>
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.Todos">
+            <summary>
+            Listar Todos os Produtos
+            </summary>
+            <returns>
+            Retorna uma lista de produtos do tipo "Produto"
+            </returns>
+        </member>
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.Ativos">
+            <summary>
+            Lista de Todos os Produtos Ativos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebCommerce.WebApi.Controllers.ProdutoController.Salvar(Aula09.Dominio.Produto)">
+            <summary>
+            Evento responsável pelo cadastro de Produtos
+            </summary>
+            <param name="entidade">
+                
+            </param>
+            <remarks>
+                {
+                   "idProduto": 1,
+                   "Nome": "Item1",
+                   "PrecoCusto": 10.0
+                }
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="T:Aula09.WebApi.Startup">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:Aula09.WebApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Startup
+            </summary>
+            <param name="configuration"></param>
+        </member>
+    </members>
+</doc>

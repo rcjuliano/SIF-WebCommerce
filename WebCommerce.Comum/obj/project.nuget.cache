@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cz5ajkJXuTw/K5mLWDh0P3P8KLZepos5pKC+nobBls9EXysv3e5WJaqlzgLeqyZDzYyreZa8fsx7O4WxfnCSoA==",
+  "success": true,
+  "projectFilePath": "C:\\_repositorios\\SIF-WebCommerce\\WebCommerce.Comum\\WebCommerce.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renato Correa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

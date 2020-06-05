@@ -1,0 +1,16 @@
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Servico.deps.json
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Servico.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Servico.pdb
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Comum.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Dados.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Dominio.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Dados.pdb
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Dominio.pdb
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\bin\Debug\netcoreapp3.1\WebCommerce.Comum.pdb
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.csprojAssemblyReference.cache
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.csproj.CoreCompileInputs.cache
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.AssemblyInfoInputs.cache
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.AssemblyInfo.cs
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.csproj.CopyComplete
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.dll
+C:\_repositorios\SIF-WebCommerce\WebCommerce.Servico\obj\Debug\netcoreapp3.1\WebCommerce.Servico.pdb
